@@ -36,7 +36,7 @@ func Start() {
 	//博客详细页面
 	e.GET("/post_detail",controller.GetPostDetail)
 
-   fmt.Println("服务器已经启动")
+   
 
 
 
